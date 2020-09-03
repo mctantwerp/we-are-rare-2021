@@ -7,7 +7,7 @@ See: [Contributing](./CONTRIBUTING.md)
 
 ## Teachers
 
-...
+- [Alessandro Aussems](./people/alessandro_aussems.md)
 
 ## Students
 
