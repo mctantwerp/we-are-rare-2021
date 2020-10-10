@@ -9,6 +9,7 @@ See: [Contributing](./CONTRIBUTING.md)
 
 - [Alessandro Aussems](./people/alessandro_aussems.md)
 - [Sam Serrien](./people/sam_serrien.md)
+- [Bram Verdyck](./people/bram_verdyck.md)
 
 ## Students
 
