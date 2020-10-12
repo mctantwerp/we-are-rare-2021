@@ -15,4 +15,5 @@ See: [Contributing](./CONTRIBUTING.md)
 ## Students
 
 - [Cedric Lenders](./people/cedric_lenders.md)
+- [Tommy Buelens](./people/tommy_buelens.md)
   ...
