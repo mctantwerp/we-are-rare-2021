@@ -16,5 +16,6 @@ See: [Contributing](./CONTRIBUTING.md)
 
 - [Cedric Lenders](./people/cedric_lenders.md)
 - [Tommy Buelens](./people/tommy_buelens.md)
+- [Demi Coecke](./people/demi_coecke.md)
 - [Dennis Ego](./people/dennis_ego.md)
   ...
