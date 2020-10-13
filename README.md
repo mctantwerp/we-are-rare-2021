@@ -18,5 +18,5 @@ See: [Contributing](./CONTRIBUTING.md)
 - [Tommy Buelens](./people/tommy_buelens.md)
 - [Demi Coecke](./people/demi_coecke.md)
 - [Dennis Ego](./people/dennis_ego.md)
-- [Andreas Van Hoeymissen](./people/Andreas_Van_Hoeymissen.md)
+- [Andreas Van Hoeymissen](./people/andreas_van_hoeymissen.md)
   ...
