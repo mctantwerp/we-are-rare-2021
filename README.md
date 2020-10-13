@@ -16,4 +16,4 @@ See: [Contributing](./CONTRIBUTING.md)
 
 - [Cedric Lenders](./people/cedric_lenders.md)
 - [Tommy Buelens](./people/tommy_buelens.md)
-  ...
+- [Karel Decoene](./people/karel_decoene.md)
