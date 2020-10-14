@@ -4,7 +4,6 @@
 - Embroidery
 - Verslaaft aan mijn smartphone 
 - Natuurwandelingen
-- Enthousiast om dingen bij te leren
 - Goals: Eigen bedrijf oprichten, reizen door Scandinavië
 
 > Dream so big you get uncomfortable telling them to small minded people
