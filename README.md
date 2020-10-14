@@ -20,5 +20,6 @@ See: [Contributing](./CONTRIBUTING.md)
 - [Dennis Ego](./people/dennis_ego.md)
 - [Karel Decoene](./people/karel_decoene.md)
 - [Andreas Van Hoeymissen](./people/andreas_van_hoeymissen.md)
+- [Jorick Detemmerman](./people/jorick_detemmerman.md)
 
   ...
