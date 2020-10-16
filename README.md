@@ -22,5 +22,6 @@ See: [Contributing](./CONTRIBUTING.md)
 - [Andreas Van Hoeymissen](./people/andreas_van_hoeymissen.md)
 - [Jorick Detemmerman](./people/jorick_detemmerman.md) 
 - [Loan Wellens](./people/loan_wellens.md)
+- [Seppe Geuens](./people/Seppe_Geuens.md)
 
   ...
