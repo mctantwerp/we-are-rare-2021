@@ -23,5 +23,6 @@ See: [Contributing](./CONTRIBUTING.md)
 - [Jorick Detemmerman](./people/jorick_detemmerman.md) 
 - [Loan Wellens](./people/loan_wellens.md)
 - [Matyas Gyenes](./people/matyas_gyenes.md)
+- [Rinor Zeçiri](./people/rinor_zeçiri.md)
 
   ...
