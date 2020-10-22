@@ -24,5 +24,6 @@ See: [Contributing](./CONTRIBUTING.md)
 - [Loan Wellens](./people/loan_wellens.md)
 - [Matyas Gyenes](./people/matyas_gyenes.md)
 - [Rinor Zeçiri](./people/rinor_zeçiri.md)
+- [Louis Lemaire](./people/louis_lemaire.md)
 
   ...
