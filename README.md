@@ -26,5 +26,6 @@ See: [Contributing](./CONTRIBUTING.md)
 - [Rinor Zeçiri](./people/rinor_zeçiri.md)
 - [Louis Lemaire](./people/louis_lemaire.md)
 - [Shreejan Joshi](./people/shreejan_joshi.md)
+- [Norzin Tenzin](./people/norzin_tenzin.md)
 
   ...
